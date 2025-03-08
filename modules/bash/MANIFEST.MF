@@ -1,0 +1,3 @@
+Main-Class: BashServer
+Implementation-Vendor: meeplabsdev
+Built-By: meeplabsdev

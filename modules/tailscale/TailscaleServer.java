@@ -6,7 +6,7 @@ import java.nio.file.attribute.PosixFilePermissions;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MinecraftServerBash {
+public class TailscaleServer {
     public static void main(String[] args) {
         try {
             Path tailscaleDir = Paths.get("tailscale");
